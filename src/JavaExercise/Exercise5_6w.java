@@ -10,7 +10,7 @@ public class Exercise5_6w {
         Scanner scanner = new Scanner(System.in);
 
         for (int i = 0; i < words.length; i++) {
-            char[]  question = words[i].toCharArray(); //
+            char[] question = words[i].toCharArray(); // String을 Char[]로 변환
             /*
             char배열 question에 담긴 문자의 위치를 임의로 바꾼다.
 
